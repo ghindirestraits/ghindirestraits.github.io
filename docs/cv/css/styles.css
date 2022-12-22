@@ -1,0 +1,132 @@
+body {
+    color: #40514E;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    margin: 0px;
+    text-align: center;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border: dotted #EAF6F6 7px;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+}
+
+p {
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    line-height: 2;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.btn {
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    color: white;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding: 4px 15px 4px 15px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+
+.coding-img {
+    float: right;
+    padding-left: 30px;
+    width: 25%;
+}
+
+.contact-me {
+    line-height: 2;
+    margin: 50px auto 50px auto;
+}
+
+.contact-msg {
+    margin: 40px auto 60px;
+    width: 25%;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.intro {
+    margin: auto;
+    width: 25%;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.qa-img {
+    float: left;
+    padding-right: 30px;
+    width: 25%;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
